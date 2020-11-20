@@ -1,5 +1,9 @@
-# crypto
-This program will encrypt-decrypt your files and even directories.\n 
-It also has a password generator.\n
-It has colourful UI.\n
-It is based on AES (Advanced Encryption Standard) Algorithm Symmetric Cryptography.\n
+# Introduction
+
+This program will encrypt-decrypt your files and even directories.
+It also has a password generator.
+It has colourful UI.
+It is based on AES (Advanced Encryption Standard) Algorithm Symmetric Cryptography.
+
+# Requirements
+
