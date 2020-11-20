@@ -1,8 +1,10 @@
 # Introduction
 
-* This program will encrypt-decrypt your files and even directories packed with password generator and colourful UI.
+* This program will encrypt-decrypt your files and directories.
 
-* It is based on AES (Advanced Encryption Standard) Algorithm Symmetric Cryptography.
+* It has a built-in password generator and featured with Colourful UI.
+
+* It is based on **AES** (*Advanced Encryption Standard*) Algorithm Symmetric Cryptography.
 
 * ### FEEL FREE TO ADD FEATURES TO THIS PROGRAM.
 
