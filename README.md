@@ -4,7 +4,7 @@ This program will encrypt-decrypt your files and even directories packed with pa
 
 It is based on AES (Advanced Encryption Standard) Algorithm Symmetric Cryptography.
 
-FEEL FREE TO ADD FEATURES TO THIS PROGRAM
+FEEL FREE TO ADD FEATURES TO THIS PROGRAM.
 
 # Requirements
 
