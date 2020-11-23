@@ -13,8 +13,6 @@ from Crypto.Cipher import AES
 
 import os
 import os.path
-from os import listdir
-from os.path import isfile, join
 
 from tqdm import tqdm
 from termcolor import colored,cprint
@@ -34,7 +32,7 @@ class Encryptor:
 
 		return s + b"\0" * (AES.block_size - len(s) % AES.block_size)
 
-	def encrypt(self, message, key, key_size=256):
+	def encrypt(self, message, key):
 
 		message = self.pad(message)
 
