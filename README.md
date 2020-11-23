@@ -1,23 +1,37 @@
 # Introduction
 
-* This program will encrypt-decrypt your files and directories.
+* This [python](https://github.com/topics/python) tool will [encrypt-decrypt](https://github.com/topics/encryption-decryption) your files and directories.
 
 * It has a built-in password generator and featured with Colourful UI.
 
-* It is based on **AES** (*Advanced Encryption Standard*) Algorithm Symmetric Cryptography.
+* It is based on [**AES**](https://github.com/topics/aes) (*Advanced Encryption Standard*) [CBC](https://github.com/topics/cbc) mode Algorithm Symmetric [Cryptography](https://github.com/topics/cryptography).
 
-* ### FEEL FREE TO ADD FEATURES TO THIS PROGRAM.
+# Installation
+
+For [Windows](https://github.com/topics/windows) : Press Win + X key and open Command Prompt and paste the three codes given below one by one.
+
+For [Linux](https://github.com/topics/linux) : Do I need to tell You ???
 
 # Requirements
 
-For Windows : Press Win + X key and open Command Prompt and paste the three codes given below one by one.
-
-For Linux : Do I need to tell You ???
-
 Run these codes to install the modules required for the program to run.
 
-* `pip install pycryptodome`
+* `pip install pycryptodome` [click here](https://pypi.org/project/pycryptodome/) for more details, documentaion and installation guide.
 
-* `pip install tqdm`
+* `pip install tqdm` [click here](https://pypi.org/project/tqdm/) for more details, documentaion and installation guide.
 
-* `pip install termcolor`
+* `pip install termcolor` [click here](https://pypi.org/project/termcolor/) for more details, documentaion and installation guide.
+
+# For Contributing
+
+1. Fork it.
+2. Create your feature branch: git checkout -b my-new-feature.
+3. Commit your changes: git commit -am 'Add some feature'.
+4. Push to the branch: git push origin my-new-feature.
+5. Submit a pull request.
+
+* **FEEL FREE TO ADD FEATURES TO THIS PROJECT THERE ARE MANY SPOTS TO IMPROVE.**
+
+# License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/PrajwalCyberGod/crypto/blob/main/LICENSE) file for details.
