@@ -1,0 +1,2 @@
+- name: DefenseCode ThunderScan Action
+  uses: defensecode/thunderscan-action@v1.0
