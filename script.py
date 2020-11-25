@@ -1,8 +1,8 @@
 '''
 
-Symmetric Cryptographic Encryption and Decryption in Python (AES)
+Symmetric Cryptographic Encryption and Decryption Tool in Python (AES)
 
-Repo Owner :- PrajwalCyberGod
+Repo Owner :- PrajwalCyberGod - https://github.com/PrajwalCyberGod/PrajwalCyberGod
 
 ''' 
 
