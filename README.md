@@ -4,7 +4,7 @@
 
 # Introduction
 
-* This [python](https://github.com/topics/python) tool will [encrypt-decrypt](https://github.com/topics/encryption-decryption) your files and directories.
+* [Python](https://github.com/topics/python) tool which will [encrypt-decrypt](https://github.com/topics/encryption-decryption) your files and directories.
 
 * It has a built-in password generator and featured with Colourful UI.
 
@@ -20,11 +20,20 @@ For [Linux](https://github.com/topics/linux) : Do I need to tell You ???
 
 Run these codes to install the modules required for the program to run.
 
-* `pip install pycryptodome` [click here](https://pypi.org/project/pycryptodome/) for more details, documentaion and installation guide.
+```sh 
+pip install pycryptodome
+```
+[click here](https://pypi.org/project/pycryptodome/) for more details, documentaion and installation guide.
 
-* `pip install tqdm` [click here](https://pypi.org/project/tqdm/) for more details, documentaion and installation guide.
+```sh 
+pip install tqdm
+``` 
+[click here](https://pypi.org/project/tqdm/) for more details, documentaion and installation guide.
 
-* `pip install termcolor` [click here](https://pypi.org/project/termcolor/) for more details, documentaion and installation guide.
+```sh 
+pip install termcolor
+``` 
+[click here](https://pypi.org/project/termcolor/) for more details, documentaion and installation guide.
 
 # For Contributing
 
