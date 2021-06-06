@@ -1,4 +1,4 @@
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://img.shields.io/badge/coverage-97%25-yellowgreen" alt="python" /> <img src="https://img.shields.io/badge/maintained-yes-blue" alt="python" />
 
 <p align="center"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.bJyyFBRKD10yVwRr_LfwFQHaE8%26pid%3DApi&f=1" alt="prajwalcybergod" width="300" height="200" /> </p>
 
@@ -12,7 +12,7 @@
 
 # Installation
 
-For [Windows](https://github.com/topics/windows) : Press Win + X key and open Command Prompt and paste the three codes given below one by one.
+For [Windows](https://github.com/topics/windows) : Press Win + X key and open Command Prompt and paste the codes given below one by one.
 
 For [Linux](https://github.com/topics/linux) : Do I need to tell You ???
 
@@ -20,6 +20,12 @@ For [Linux](https://github.com/topics/linux) : Do I need to tell You ???
 
 Run these codes to install the modules required for the program to run.
 
+```sh 
+pip install -r requirements.txt 
+``` 
+
+**OR**
+  
 ```sh 
 pip install pycryptodome
 ```
@@ -48,3 +54,19 @@ pip install termcolor
 # License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/PrajwalCyberGod/crypto/blob/main/LICENSE) file for details.
+
+# Contact
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-url]: https://linkedin.com/in/prajwalmali
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=069
+  
+[![GitHub][myprofile-shield]][myprofile-url]
+  
+[myprofile-url]: https://github.com/PrajwalCyberGod/PrajwalCyberGod
+ 
+[myprofile-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=333
+  
+>***Prajwal Vijaykumar Mali*** - prajwalgithubpro@hotmail.com
